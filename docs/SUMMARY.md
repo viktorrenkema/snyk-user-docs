@@ -902,6 +902,7 @@
     * [Disclose a vulnerability in an open source package](more-info/disclosing-vulnerabilities/disclose-a-vulnerability-in-an-open-source-package.md)
   * [Snyk Learn](more-info/snyk-learn.md)
   * [Error Catalog](more-info/error-catalog.md)
+* [Getting started 2](getting-started2/README.md)
 * [Guides](guides/README.md)
   * [Snyk for Java developers](guides/snyk-for-java-developers.md)
   * [Snyk for .NET developers](guides/snyk-for-.net-developers.md)
